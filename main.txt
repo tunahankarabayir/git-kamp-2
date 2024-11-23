@@ -1,2 +1,2 @@
-main branch
-git-kamp-2
+branch     : main branch
+repository : git-kamp-2 
